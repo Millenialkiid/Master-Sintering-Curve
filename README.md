@@ -35,4 +35,4 @@ The program outputs:
 NumPy: For numerical operations and array handling
 SciPy: For statistical analysis and linear regression
 Matplotlib: For creating visualizations
-Math: For mathematical functions (although this is replaced by NumPy functions in the implementation)
+
